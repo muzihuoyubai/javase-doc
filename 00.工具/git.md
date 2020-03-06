@@ -38,4 +38,6 @@ Git是一个开源的分布式版本控制系统，在多人开发过程中，�
 
 运行git安装包，根据提示安装成功后。鼠标右键菜单中可以看到如下内容
 
-![image](/Users/liyi/works/repos/javase-doc/00.工具/git_01.png)
+![image](https://raw.githubusercontent.com/muzihuoyubai/javase-doc/master/00.工具/git_01.png?token=AEJ2G3ZSXRU7U7GML4JWSYC6MIFQO)
+
+![image-20200306163735868](/Users/liyi/works/repos/javase-doc/00.工具/image-20200306163735868.png)
